@@ -1,0 +1,4 @@
+This is an unofficial, unverified, and incomplete listing of twitter accounts for state representatives.
+It was generated using the openstates api , search engine results, and some manual review.
+There will be one csv file per state with the format of:
+openstates_legislator_id, legislator_full_name, twitter_url_if_exists
